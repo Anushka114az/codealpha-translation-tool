@@ -58,4 +58,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Open `http://localhost:8501` in your browser.
+Open https://github.com/Anushka114az/codealpha-translation-tool.git in your browser.
